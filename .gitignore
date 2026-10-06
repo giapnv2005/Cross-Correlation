@@ -91,3 +91,8 @@ Desktop.ini
 *.log
 *.tmp
 *.bak
+
+# Custom ignores
+test_data/
+results/
+build_notebooks.py
